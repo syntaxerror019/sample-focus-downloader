@@ -6,7 +6,7 @@ A JS injection script to download unlimited samples from SampleFocus.com for fre
 3) Copy and paste the following code into your console:
 
 ```js
-fetch('https://raw.githubusercontent.com/syntaxerror019/sample-focus-downloader/sample-focus.js').then(r=>r.text()).then(eval)
+fetch('https://raw.githubusercontent.com/syntaxerror019/sample-focus-downloader/refs/heads/main/sample-focus.js').then(r=>r.text()).then(eval)
 ```
 
 4) Hit enter to run the code
